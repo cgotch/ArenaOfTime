@@ -3,3 +3,11 @@
 ################################################################################
 
 /ArenaOfTime/.vs/ArenaOfTime/v16
+/ArenaOfTime/Logs
+/ArenaOfTime/obj/Debug
+/ArenaOfTime/Library/Artifacts
+/ArenaOfTime/Library/Bee/artifacts
+/ArenaOfTime/Library/Bee
+/ArenaOfTime/Library/PackageCache
+/ArenaOfTime/Library/ShaderCache
+/ArenaOfTime/Library/StateCache
